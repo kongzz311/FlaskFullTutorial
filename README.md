@@ -1,12 +1,14 @@
    # The tree of the Project will be
    ```bash
-   ├── README.md
+.
+├── README.md
 ├── __pycache__
 ├── flaskblog
 │   ├── __init__.py
 │   ├── forms.py
 │   ├── models.py
 │   ├── routes.py
+│   ├── site.db
 │   ├── static
 │   │   └── main.css
 │   └── templates
@@ -17,5 +19,6 @@
 │       └── register.html
 ├── requirements.txt
 └── run.py
+
 
    ```
