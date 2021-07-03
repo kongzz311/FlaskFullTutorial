@@ -8,7 +8,12 @@ pip install flask-bcrypt
 pip install flask-login
 ```
 
-# Install package for resize profile image
+# Install package for resizing profile image
 ```shell
 pip install Pillow
+```
+
+# Install package for senting reset-password
+```shell
+pip install flask-mail 
 ```
